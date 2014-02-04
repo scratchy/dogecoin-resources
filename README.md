@@ -156,3 +156,4 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogecoin Donation Button](https://gist.github.com/kentbrew/8077969)
 - [Dogecoin Paper Wallet Generator](http://dogecoinpaperwallet.net)
 - [DogeFetch: DOGE Display for Raspberry Pi](https://github.com/scriptingsoul/DogeFetch)
+- [Alternative Donation Button] (http://www.dogets.com/)
