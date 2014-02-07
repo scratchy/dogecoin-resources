@@ -110,6 +110,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Faucets
 
+- [Doge faucet](http://dogefaucet.niau.org/)
 - [Faucet.io](http://faucet.io)
 - [Phunsauce Dogecoin Faucet](http://phunsauce.com)
 - [The Moon Race](http://www.moonrace.tk)
