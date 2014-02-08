@@ -7,6 +7,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 	- [Desktop clients](#desktop-clients)
 	- [Mobile wallets](#mobile-wallets)
 	- [Online wallets](#online-wallets)
+	- [Light wallets](#light-wallets)
 	- [Local portals](#local-portals)
 	- [Mining pools](#mining-pools)
 	- [Exchanges](#exchanges)
@@ -27,6 +28,11 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Online wallets
 - [DogeVault](https://www.dogevault.com/)
 - [Doge API](http://dogeapi.com/)
+
+## Light wallets
+- [Windows client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-windows-setup.exe)
+- [OS X client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0.dmg)
+- [Linux](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-linux.jar)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
