@@ -107,6 +107,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [BTER](https://bter.com/trade/doge_btc)
 - [C-CEX.com DOGE/BTC](https://c-cex.com/index.html?p=doge-btc)
 - [C-CEX.com DOGE/USD](https://c-cex.com/index.html?p=doge-usd)
+
 ## Trading Posts
 
 - [Dogemarket](http://www.reddit.com/r/dogemarket)
