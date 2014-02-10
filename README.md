@@ -132,7 +132,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Full list of dogecoin faucets](http://freedogecoins.net)
 
 ## Games
-
+- [ShibaDice](http://shibadice.com/)
 - [DogeCade](http://dogecade.com/)
 - [Such Gamble](http://suchgamble.pw/)
 - [Dogespin](http://dogespin.l8.lv/)
