@@ -120,9 +120,9 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Faucet.io](http://faucet.io)
 - [Phunsauce Dogecoin Faucet](http://phunsauce.com)
 - [The Moon Race](http://www.moonrace.tk)
-- [CryptoBucket Faucet](http://cryptobucket.com/dogefaucet.php)
+- [CryptoBucket Faucet #1](http://cryptobucket.com/dogecoin_faucet.php)
+- [CryptoBucket Faucet #2] (http://cryptobucket.com/dogecoin_faucet2.php)
 - [Dogecoin Faucet](http://185.38.47.229/faucet/)
-- http://dogefoode.bidouille.org/
 - [In Doge We Trust](http://indogewetrust.com/faucet) (use promo code: install gentoo)
 - [Dogey Faucet](http://faucet.frd.mn/)
 - [Pawcett](http://pawcett.com)
@@ -135,14 +135,11 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Games
 
 - [DogeCade](http://dogecade.com/)
-- [Such Gamble](http://suchgamble.pw/)
 - [Dogespin](http://dogespin.l8.lv/)
 - [Doge Pound](http://dogepound.l8.lv/)
 - [Pocket Rockets Casino](https://pocketrocketscasino.com/)
 - [DOGE CoinGames](http://doge.coingam.es/)
 - [Doge Fights] (http://silabsoft.org/doge/dogefight.php/)
-- http://implying.eu/doge/
-- [Doge Lotto](http://doge-lotto.com/)
 - [CasinoQT Lotto](http://casinoqt.com/lotto/)
 - [CoinsFortress HighLow](https://www.coinsfortress.com/)
 - [Dogecoin POOL bet](http://www.dogecoingame.eu/)
