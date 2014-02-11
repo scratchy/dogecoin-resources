@@ -106,6 +106,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Doges.org Exchange Forum](http://doges.org/index.php?board=3.0)
 - [Vircurex.com Exchange](https://vircurex.com/welcome/index?alt=doge&base=btc&locale=en)
 - [BTER](https://bter.com/trade/doge_btc)
+- [C-CEX.com DOGE/BTC](https://c-cex.com/index.html?p=doge-btc)
+- [C-CEX.com DOGE/USD](https://c-cex.com/index.html?p=doge-usd)
 
 ## Trading Posts
 
