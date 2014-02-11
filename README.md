@@ -5,9 +5,10 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 - [Dogecoin Resources](#dogecoin-resources)
 	- [Desktop clients](#desktop-clients)
+	- [Light wallets](#light-wallets)
 	- [Mobile wallets](#mobile-wallets)
 	- [Online wallets](#online-wallets)
-	- [Light wallets](#light-wallets)
+	- [REST API services](#rest-apis)
 	- [Local portals](#local-portals)
 	- [Mining pools](#mining-pools)
 	- [Exchanges](#exchanges)
@@ -22,17 +23,20 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [OS X client](https://github.com/dogecoin/dogecoin/releases/download/1.4/dogecoin-qt-v14-Mac.zip)
 - [Source](https://github.com/dogecoin/dogecoin)
 
+## Light wallets
+- [Windows client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-windows-setup.exe)
+- [OS X client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0.dmg)
+- [Linux](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-linux.jar)
+
 ## Mobile wallets
 - [Android wallet](https://play.google.com/store/apps/details?id=de.langerhans.wallet)
 
 ## Online wallets
 - [DogeVault](https://www.dogevault.com/)
-- [Doge API](http://dogeapi.com/)
+- [DogeAPI](http://dogeapi.com/)
 
-## Light wallets
-- [Windows client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-windows-setup.exe)
-- [OS X client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0.dmg)
-- [Linux](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-linux.jar)
+## REST APIs
+- [DogeAPI](http://dogeapi.com/)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
@@ -79,7 +83,10 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.coinpooler.net/
 - http://doge.jtcpools.org
 - https://www.dogepool.net
-- 
+- http://coinmaster.us
+- http://doge.coindation.com/index.php
+- http://doge.cryptoharvester.eu
+
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
 - http://doge.crypto49er.com/
@@ -97,6 +104,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://pool.dogecoin.tw:9555/
 - http://to-the-moon.info:9555/
 - [P2Pool Crawler](http://p2pool.jir.dk/dogecoin/)
+- [Network statistics](http://doge.cryptoharvester.eu)
 
 ## Exchanges
 
