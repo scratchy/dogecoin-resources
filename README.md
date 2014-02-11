@@ -78,7 +78,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://77z.co/
 - http://doge.coinpooler.net/
 - http://doge.jtcpools.org
-
+- https://www.dogepool.net
+- 
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
 - http://doge.crypto49er.com/
