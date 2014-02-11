@@ -103,6 +103,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://lovok.no-ip.com:22550
 - http://pool.dogecoin.tw:9555/
 - http://to-the-moon.info:9555/
+- http://pool.dogepack.com/
 - [P2Pool Crawler](http://p2pool.jir.dk/dogecoin/)
 - [Network statistics](http://doge.cryptoharvester.eu)
 
