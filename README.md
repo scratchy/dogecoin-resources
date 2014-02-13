@@ -109,14 +109,15 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Exchanges
 
-- [Cryptsy](https://www.cryptsy.com/markets/view/132)
-- [COINS-E](https://www.coins-e.com/exchange/DOGE_BTC/)
-- [CoinedUp DOGE/BTC Exchange](https://coinedup.com/OrderBook?market=DOGE&base=BTC)
-- [Doges.org Exchange Forum](http://doges.org/index.php?board=3.0)
-- [Vircurex.com Exchange](https://vircurex.com/welcome/index?alt=doge&base=btc&locale=en)
+- [ANXPRO](https://anxpro.com/)
 - [BTER](https://bter.com/trade/doge_btc)
+- [COINS-E](https://www.coins-e.com/exchange/DOGE_BTC/)
+- [Cryptsy](https://www.cryptsy.com/markets/view/132)
+- [CoinedUp DOGE/BTC Exchange](https://coinedup.com/OrderBook?market=DOGE&base=BTC)
 - [C-CEX.com DOGE/BTC](https://c-cex.com/index.html?p=doge-btc)
 - [C-CEX.com DOGE/USD](https://c-cex.com/index.html?p=doge-usd)
+- [Doges.org Exchange Forum](http://doges.org/index.php?board=3.0)
+- [Vircurex.com Exchange](https://vircurex.com/welcome/index?alt=doge&base=btc&locale=en)
 
 ## Trading Posts
 
