@@ -126,6 +126,13 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogeslist](http://dogeslist.org/)
 - [Shibe Mart](http://shibemart.com/)
 
+## Directories
+
+- [Doge Earth](http://dogeearth.com/)
+- [DOGEdir](http://dogedir.com/)
+- [DogeBiz.net](http://dogebiz.net/)
+- [DogePages](http://www.dogepages.com/)
+
 ## Faucets
 
 - [Doge faucet](http://dogefaucet.niau.org/)
