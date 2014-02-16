@@ -170,6 +170,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DogeFlip](http://dogeflip.com)
 - [Dogefights](http://dogefights.com/)
 - [DogeDice.me](http://dogedice.me/)
+- [Wow Such Ponzi](http://wowsuchponzi.com/)
 
 ## Development
 
