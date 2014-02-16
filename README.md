@@ -187,3 +187,4 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogecoin Paper Wallet Generator](http://dogecoinpaperwallet.net)
 - [DogeFetch: DOGE Display for Raspberry Pi](https://github.com/scriptingsoul/DogeFetch)
 - [Alternative Donation Button] (http://www.dogets.com/)
+- [Indicator for current Dogecoin exchange rate](https://github.com/Dirrot/python-indicator-dogecoin-cryptsy-exchange-rate)
