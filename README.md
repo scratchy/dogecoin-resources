@@ -109,8 +109,10 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Exchanges
 
-- [ANXPRO](https://anxpro.com/)
+- [Vault of Satoshi](https://www.vaultofsatoshi.com/)
 - [BTER](https://bter.com/trade/doge_btc)
+- [BTC38.com](http://www.btc38.com/trade.html?btc38_trade_coin_name=dog)
+- [ANXPRO](https://anxpro.com/)
 - [COINS-E](https://www.coins-e.com/exchange/DOGE_BTC/)
 - [Cryptsy](https://www.cryptsy.com/markets/view/132)
 - [CoinedUp DOGE/BTC Exchange](https://coinedup.com/OrderBook?market=DOGE&base=BTC)
@@ -151,6 +153,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Doge faucet] (http://www.dogefaucet.com/)
 - [Free Dogecoin Faucet](http://doge.freefaucet.com.ar)
 - [Sir Doge (funny faucet with very big rewards)](http://www.sirdoge.com/)
+- [Bartstuff Faucet](http://bartstuff.eu/doge/doge2.php)
 - [Full list of dogecoin faucets](http://freedogecoins.net)
 
 ## Games
