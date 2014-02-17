@@ -50,6 +50,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - https://doge.rapidhash.net
 - http://doge.hashfaster.com
 - http://dogepool.pw
+- http://doge.hashrate.eu
 - http://doge.luckyminers.com
 - http://doge.cryptoculture.net 
 - http://pool.testserverino.de
