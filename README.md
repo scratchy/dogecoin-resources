@@ -19,8 +19,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 	- [Misc Services](#misc-services)
 
 ## Desktop clients
-- [Windows client](https://github.com/dogecoin/dogecoin/releases/download/1.4/dogecoin-qt-v14-Win.zip)
-- [OS X client](https://github.com/dogecoin/dogecoin/releases/download/1.4/dogecoin-qt-v14-Mac.zip)
+- [Windows client](https://github.com/dogecoin/dogecoin/releases/download/1.5.2/dogecoin-1.5.2.0-win32-setup.exe)
+- [OS X client](https://github.com/dogecoin/dogecoin/releases/download/1.5.2/dogecoin-qt-1_5_2-mac.zip)
 - [Source](https://github.com/dogecoin/dogecoin)
 
 ## Light wallets
