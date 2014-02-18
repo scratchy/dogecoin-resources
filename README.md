@@ -128,6 +128,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Cryptothrift](https://cryptothrift.com/)
 - [Dogeslist](http://dogeslist.org/)
 - [Shibe Mart](http://shibemart.com/)
+- [DogeOutlet](https://dogeoutlet.com/)
 
 ## Directories
 
