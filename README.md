@@ -174,6 +174,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogefights](http://dogefights.com/)
 - [DogeDice.me](http://dogedice.me/)
 - [Wow Such Ponzi](http://wowsuchponzi.com/)
+- [Doge Coin Lottery](http://www.reddit.com/r/DogeCoinLottery/)
 
 ## Development
 
