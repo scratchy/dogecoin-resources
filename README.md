@@ -90,6 +90,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://coinmaster.us
 - http://doge.coindation.com/index.php
 - http://doge.cryptoharvester.eu
+- https://mupool.com
 
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
