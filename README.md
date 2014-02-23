@@ -37,6 +37,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## REST APIs
 - [DogeAPI](http://dogeapi.com/)
+- [Vault of Satoshi](https://www.vaultofsatoshi.com/api)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
