@@ -24,9 +24,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Source](https://github.com/dogecoin/dogecoin)
 
 ## Light wallets
-- [Windows client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-windows-setup.exe)
-- [OS X client](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0.dmg)
-- [Linux](https://github.com/langerhans/multidoge/releases/download/v0.1.0/multidoge-0.1.0-linux.jar)
+- [Multidoge](http://multidoge.org)
+- [WowDoge](http://www.wowdoge.org/)
 
 ## Mobile wallets
 - [Android wallet](https://play.google.com/store/apps/details?id=de.langerhans.wallet)
@@ -34,10 +33,13 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Online wallets
 - [DogeVault](https://www.dogevault.com/)
 - [DogeAPI](http://dogeapi.com/)
+- [Dogechain Wallet](https://secure.dogechain.info/wallet)
+- [Moolah](https://moolah.ch/)
 
 ## REST APIs
 - [DogeAPI](http://dogeapi.com/)
 - [Vault of Satoshi](https://www.vaultofsatoshi.com/api)
+- [Moolah](https://moolah.ch/)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
@@ -189,6 +191,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [CryptFolio](https://cryptfolio.com/)
 - [Dogecoin Donation Button](https://gist.github.com/kentbrew/8077969)
 - [Dogecoin Paper Wallet Generator](http://dogecoinpaperwallet.net)
+- [Moolah Paper Wallet Generator](https://moolah.ch/paper/)
 - [DogeFetch: DOGE Display for Raspberry Pi](https://github.com/scriptingsoul/DogeFetch)
 - [Alternative Donation Button] (http://www.dogets.com/)
 - [Dogecoin Exchange Rate Indicator](https://github.com/Dirrot/python-indicator-dogecoin-cryptsy-exchange-rate)
